@@ -1,4 +1,4 @@
-# Copyright 2020, Massimiliano Sartore
+# Copyright 2022, Massimiliano Sartore
 # Licensed under the MIT license;
 
 class Line:
